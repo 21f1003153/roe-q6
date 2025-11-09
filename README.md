@@ -2,4 +2,4 @@
 
 This repo contains a GitHub Actions workflow that demonstrates matrix builds and artifact management.
 
-Contact: your.name@example.com
+Contact: 21f1003153@ds.study.iitm.ac.in)
